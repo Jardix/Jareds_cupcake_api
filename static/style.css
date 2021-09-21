@@ -1,0 +1,12 @@
+.Cupcake-img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+body {
+    background-color: gray;
+}
+
+h1, h2 {
+    color: black;
+}
